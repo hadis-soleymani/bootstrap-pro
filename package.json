@@ -7,12 +7,13 @@
     "serve": "webpack serve --mode development",
     "build": "webpack --mode production"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
